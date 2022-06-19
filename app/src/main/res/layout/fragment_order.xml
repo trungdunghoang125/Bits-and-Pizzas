@@ -57,12 +57,14 @@
                     android:id="@+id/radio_diavolo"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:checked="false"
                     android:text="Diavolo"/>
 
                 <RadioButton
                     android:id="@+id/radio_funghi"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:checked="false"
                     android:text="Funghi"/>
             </RadioGroup>
 
